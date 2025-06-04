@@ -10,3 +10,13 @@ const NAMES = ["Alice", "Bob", "Carol", "Dave", "Eve"];
 const OCCUPATIONS = ["Writer", "Teacher", "Programmer", "Designer", "Engineer"];
 const PRICE_RANGE = { min: 20, max: 200 };
 const NUM_FREELANCERS = 100;
+
+
+
+
+function rdmFreelancer (){
+
+    return (name + ocupation + Rate);
+
+}
+console.log(rdmFreelancer);
